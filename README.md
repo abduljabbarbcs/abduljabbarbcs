@@ -4,7 +4,7 @@ I am a software development professional with over 8 years of experience. I have
 complex problems by utilizing state-of-the-art techniques in large-scale projects. My expertise lies in
 developing comprehensive solutions using front-end and back-end technologies, as well as
 automating deployment processes with Docker. Enthusiastic about exploring new technologies and
-thrive on facing new challenges.
+thrive on facing new challenges. Check out my portfolio [here](https://abduljabbarbcs.github.io/portfolio/).
 
 ## 🚀 Skills
 
@@ -36,10 +36,13 @@ He/Him
   <img height="32" align="left" alt="Mail" src="icons/gmail.png" />
 </a>
 
-<a href="www.linkedin.com/in/muhammad-jabbar">
+<a href="https://www.linkedin.com/in/muhammad-jabbar">
   <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
 </a>
 
+<a href="https://www.instagram.com/jabbar_tiwana/">
+  <img height="32" align="left" alt="Instagram" src="icons/instagram.png" />
+</a>
 <!--
 **abduljabbarbcs/abduljabbarbcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
