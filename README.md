@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software development professional with over 8 years of experience. I have successfully tackled
+I am a software development professional with over 9 years of experience. I have successfully tackled
 complex problems by utilizing state-of-the-art techniques in large-scale projects. My expertise lies in
 developing comprehensive solutions using front-end and back-end technologies, as well as
 automating deployment processes with Docker. Enthusiastic about exploring new technologies and
